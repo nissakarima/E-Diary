@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FP</string>
+    <string name="e_diary_login">E-Diary Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="logout">LOGOUT</string>
+    <string name="to_do">To Do</string>
+    <string name="enter_a_note">Enter a note...</string>
+    <string name="save">SAVE</string>
+    <string name="date">9 January 2020</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="LOGOUT">logout</string>
+    <string name="app">EDiary</string>
+    <string name="hi_welcome">Hi, Welcome!</string>
+    <string name="your_daily_notes">  Here your Daily Notes</string>
+    <string name="emailllll">emailllll</string>
+    <string name="login">LOGIN</string>
+</resources>
